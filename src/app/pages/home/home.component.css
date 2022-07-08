@@ -1,5 +1,5 @@
 body {
-    background-image: url("../../../assets/img/fondo1.jpg") !important;
+    background-image: url("../../../assets/img/fondo2.jpg") !important;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -7,6 +7,6 @@ body {
     text-align: center;
     font-family: sans-serif;
     color: #fff;
-    padding-bottom: 1%;
+    padding-bottom: 25%;
 
 }
