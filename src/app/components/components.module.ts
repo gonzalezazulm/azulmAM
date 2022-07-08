@@ -5,8 +5,7 @@ import { MaterialModule } from '../material/material.module';
 import { NavbarComponent } from './navbar/navbar.component';
 import { CarouselComponent } from './carousel/carousel.component';
 import { FooterComponent } from './footer/footer.component';
-
-
+import { AppRoutingModule } from '../app-routing.module';
 
 @NgModule({
   declarations: [
@@ -23,7 +22,8 @@ import { FooterComponent } from './footer/footer.component';
   ],
   imports: [
     CommonModule,
-    MaterialModule
+    MaterialModule,    
+    AppRoutingModule
   ]
 })
 export class ComponentsModule { }
