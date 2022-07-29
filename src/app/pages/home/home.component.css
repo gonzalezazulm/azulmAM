@@ -10,3 +10,48 @@ body {
     padding-bottom: 25%;
 
 }
+
+.caja {
+    background-image: url(../../../assets/img/cuadro.jpg) !important;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #000000c2;
+    margin: 20px auto;
+    overflow: hidden;
+    padding: 20px;
+    padding-left: 15px;
+    padding-right: 2px;
+    margin-left: 70%;
+}
+
+#back-to-top {
+    background-color: #c48981;
+    color: #fff;
+}
+
+#back-to-top {
+    width: 32px;
+    height: 32px;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    cursor: pointer;
+    transition: all .3s;
+    text-align: center;
+}
+
+.container {
+    flex-direction: row;
+}
+
+.ir-arriba {
+    display: none;
+    padding: 20px;
+    background: #024959;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
