@@ -8,6 +8,7 @@ nav{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #c48f88;
     font-size: 20px;
+    
 }
 a {
     color: #c48f88;
@@ -15,3 +16,7 @@ a {
 a:hover {
     color: rgb(126, 110, 119);
   }
+.carrito{
+    float: right;
+    margin-right: 5%;
+}
