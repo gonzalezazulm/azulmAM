@@ -19,9 +19,30 @@ body {
     color: #312e2ec2;
     margin: 20px auto;
     overflow: hidden;
-    padding: 20px;
-    margin-left: 72%;
-    margin-right: 2%;
+    padding: 10%;
+    margin-left: 10%;
+    margin-right: 11%;
+    margin-bottom: 6%;
+}
+.caja2{
+    margin: 20px auto;
+    margin-left: 11%;
+}
+.caja2:hover {
+    -webkit-transform:scale(1.1);transform:scale(1.1);
+    
+    transition: all 1s;
+}
+
+.intro{
+    background-color: #b6cfc7d0;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    color: #312e2ec2;
+    overflow: hidden;
+    margin-left: 1%;
+    margin-top: 6%;
 }
 
 #back-to-top {
@@ -42,6 +63,11 @@ body {
 
 .container {
     flex-direction: row;
+    background-color:#fff;
+    margin-left: 2%;
+    margin: 0 auto;
+    margin-top: 2%;
+
 }
 
 .ir-arriba {
