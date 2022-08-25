@@ -1,5 +1,5 @@
 .banner{
-    background-color: #FFE9AE;
+    background-color: #f5f3f1;
 
 }
 *,
@@ -43,7 +43,7 @@ body {
 .text_shadows {
   text-shadow: 3px 3px 0 #f07a6a, 6px 6px 0 #f28b7d,
     9px 9px #f6aca2, 12px 12px 0 #f6aca2;
-  font-family: bungee, sans-serif;
+  font-family: impact, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   font-size: calc(2rem + 5vw);

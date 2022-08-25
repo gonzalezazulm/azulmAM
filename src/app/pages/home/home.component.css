@@ -12,54 +12,30 @@ body {
 }
 
 .caja {
-    background-color: #c48981;
-    font-family: sans-serif;
+    background-color: #C1EFFF;
+    font-family: 'Arial Narrow Bold';
     text-align: center;
     font-size: 16px;
     color: #312e2ec2;
-    margin: 20px auto;
     overflow: hidden;
-    padding: 10%;
-    margin-left: 10%;
-    margin-right: 11%;
-    margin-bottom: 6%;
-}
-.caja2{
-    margin: 20px auto;
-    margin-left: 11%;
-}
-.caja2:hover {
-    -webkit-transform:scale(1.1);transform:scale(1.1);
+    padding: 2%;
+    margin-left: 25%;
+    margin-top: 5%;
     
-    transition: all 1s;
 }
+
 
 .intro{
-    background-color: #b6cfc7d0;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-align: center;
+    background-color: #fdfdfd80;
+    font-family:'Arial Narrow Bold';
     font-size: 16px;
     color: #312e2ec2;
     overflow: hidden;
-    margin-left: 1%;
-    margin-top: 6%;
+    margin-top: 15%;
+    margin-left: 5%;
 }
 
-#back-to-top {
-    background-color: #c48981;
-    color: #fff;
-}
 
-#back-to-top {
-    width: 32px;
-    height: 32px;
-    position: fixed;
-    bottom: 40px;
-    right: 40px;
-    cursor: pointer;
-    transition: all .3s;
-    text-align: center;
-}
 
 .container {
     flex-direction: row;
@@ -70,14 +46,3 @@ body {
 
 }
 
-.ir-arriba {
-    display: none;
-    padding: 20px;
-    background: #024959;
-    font-size: 20px;
-    color: #fff;
-    cursor: pointer;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-}

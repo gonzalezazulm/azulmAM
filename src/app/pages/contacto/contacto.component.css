@@ -5,12 +5,13 @@ body {
     background-position: center center;
     background-attachment: fixed;
     text-align: center;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(0, 0, 0);
     padding-bottom: 25%;
 
 }
-p{
+
+p {
     font-family: Roboto;
     color: #666;
     font-size: 16px;
@@ -20,12 +21,27 @@ p{
     font-weight: 400;
     font-style: normal;
 }
-.face{
-    
-        float: left;
+
+.face {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    margin: 5px 2px;
 }
-.wap{
-   
-        float: left;
-      
+
+.face:hover {
+    opacity: 0.7;
+}
+
+.fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    margin: 5px 2px;
+}
+
+.fab:hover {
+    opacity: 0.7;
 }
