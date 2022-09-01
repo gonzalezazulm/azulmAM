@@ -8,10 +8,15 @@
   body{
     background-color: #a884848c;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(0, 0, 0);
-
-  }
   
+  }
+  button{
+    background-color: #F2D7D9;
+    border-color: #EEB0B0;
+  }
+  button:hover{
+    background-color: #e9c9d0;
+  }
   .container{
     text-align: left;
   }
