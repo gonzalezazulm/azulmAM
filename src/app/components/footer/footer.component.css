@@ -3,7 +3,8 @@ footer{
     height: 70px;
     width: 100%;
     color: rgb(0, 0, 0);
+    text-align: center;
 }
 body{
-    background-color: #c48f88;
+    background-color: #f3ebf3;
 }
