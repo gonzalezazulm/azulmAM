@@ -1,11 +1,22 @@
 .banner{
-    background-color: #f5f3f1;
+    background-color: #f5f3f17e;
 
 }
 *,
 *::before,
 *::after {
   box-sizing: border-box;
+}
+.exterior{
+  background-image: url("../../../assets/img/caja2.jpg") !important;
+  margin-left: 2%;
+}
+.interior{
+  background-color: #fff;
+margin-top: 5%;
+}
+.row{
+  margin-top: 4%;
 }
 
 :root {
@@ -44,7 +55,7 @@ body {
   text-shadow: 3px 3px 0 #f07a6a, 6px 6px 0 #f28b7d,
     9px 9px #f6aca2, 12px 12px 0 #f6aca2;
   font-family: impact, sans-serif;
-  font-weight: 400;
+  font-weight: 200;
   text-transform: uppercase;
   font-size: calc(2rem + 5vw);
   text-align: center;

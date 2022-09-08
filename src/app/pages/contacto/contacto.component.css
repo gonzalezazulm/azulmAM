@@ -45,3 +45,12 @@ p {
 .fab:hover {
     opacity: 0.7;
 }
+.redes{
+    font-family: 'Arial Narrow Bold';
+    text-align: center;
+    font-size: 16px;
+    color: #312e2ec2;
+    overflow: hidden;
+    padding: 2%;
+    margin-left: 25%;
+    margin-top: 5%;}
