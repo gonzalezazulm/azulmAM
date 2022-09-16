@@ -1,14 +1,15 @@
 nav{
     background-color: #f7f7f7;
-    right: 0;
-    left: 0;
     padding: 1rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #c48f88;
     font-size: 20px;
-    position:fixed;
-    top: 0;
-    z-index: 100;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 10;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 5px;
 }
 .navbar-brand{
    font-family: system-ui, -apple-system, 'Segoe UI', Oxygen;
